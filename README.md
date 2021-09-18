@@ -6,8 +6,18 @@
 
 ## What is this?
 
-this is a *blog* wrote by brooke_zb, use Vue.js (version 3), vue-router and etc.
+this is a **blog system** wrote by brooke_zb, use Vue.js (version 3), vue-router and etc.
 
 ## Features
 
 looks very cool! a perfect experience when loading and page change.
+
+****
+
+## WIP
+
+- [x] Loading animation
+- [x] Dark mode
+- [ ] Navbar
+- [ ] Footer
+
