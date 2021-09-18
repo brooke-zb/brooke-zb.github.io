@@ -12,6 +12,20 @@ this is a **blog system** wrote by brooke_zb, use Vue.js (version 3), vue-router
 
 looks very cool! a perfect experience when loading and page change.
 
+## Code Highlight Test
+
+```json
+{
+    "foo": "string",
+    "baz": {
+        "flag": true,
+        "number": 114514
+    }
+}
+```
+
+
+
 ****
 
 ## WIP
