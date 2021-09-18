@@ -1,0 +1,13 @@
+# BZBlog
+
+****
+
+![](https://cdn.jsdelivr.net/gh/brooke-zb/brooke-zb.github.io@master/img/bzblog_1.png)
+
+## What is this?
+
+this is a *blog* wrote by brooke_zb, use Vue.js (version 3), vue-router and etc.
+
+## Features
+
+looks very cool! a perfect experience when loading and page change.
