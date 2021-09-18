@@ -8,6 +8,8 @@
 
 this is a **blog system** wrote by brooke_zb, use Vue.js (version 3), vue-router and etc.
 
+示例: [ZB's空间站](https://blog.brooke-zb.top)
+
 ## Features
 
 looks very cool! a perfect experience when loading and page change.
@@ -24,6 +26,13 @@ looks very cool! a perfect experience when loading and page change.
 }
 ```
 
+```js
+const canvas = document.querySelectorAll('#content > .box')
+for (let i = 0; i < canvas.length; i++) {
+    let ctx = canvas[i].getContext('2d')
+}
+```
+
 
 
 ****
@@ -32,6 +41,7 @@ looks very cool! a perfect experience when loading and page change.
 
 - [x] Loading animation
 - [x] Dark mode
+- [ ] Code highlight
 - [ ] Navbar
 - [ ] Footer
 
