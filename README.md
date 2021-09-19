@@ -22,9 +22,11 @@ looks very cool! a perfect experience when loading and page change.
 
 ## Table Test
 
-| 1     | 2      | 3     | 4      |
-| ----- | ------ | ----- | ------ |
-| first | second | third | fourth |
+| 1      | 2      | 3      | 4      |
+| ------ | ------ | ------ | ------ |
+| first  | second | third  | fourth |
+| second | third  | fourth | fifth  |
+| third  | fourth | fifth  | sixth  |
 
 ## Code Highlight Test
 
@@ -43,6 +45,15 @@ const canvas = document.querySelectorAll('#content > .box')
 for (let i = 0; i < canvas.length; i++) {
     let ctx = canvas[i].getContext('2d')
 }
+
+function test(str) {
+    let len = str.length
+    if (len < 5 && len > 0) {
+        return str.split('')
+    } else return str.split(' ')
+}
+
+test('Hello World!')
 ```
 
 this is `span code`, it looks `short` 
@@ -54,6 +65,7 @@ this is `span code`, it looks `short`
 - [x] Loading animation
 - [x] JS Dark mode
 - [x] Code highlight
-- [ ] 404 Page
+- [x] 404 Page
+- [ ] Table style
 - [ ] Navbar
 - [ ] Footer
