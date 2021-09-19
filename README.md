@@ -14,6 +14,18 @@ this is a **blog system** wrote by brooke_zb, use Vue.js (version 3), vue-router
 
 looks very cool! a perfect experience when loading and page change.
 
+## Blockquote Test
+
+> blockquote test
+>
+> blockquote test
+
+## Table Test
+
+| 1     | 2      | 3     | 4      |
+| ----- | ------ | ----- | ------ |
+| first | second | third | fourth |
+
 ## Code Highlight Test
 
 ```json
@@ -45,8 +57,3 @@ this is `span code`, it looks `short`
 - [ ] 404 Page
 - [ ] Navbar
 - [ ] Footer
-
-> blockquote test
->
-> blockquote test
-
