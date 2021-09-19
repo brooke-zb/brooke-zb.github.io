@@ -40,8 +40,13 @@ this is `span code`, it looks `short`
 ## WIP
 
 - [x] Loading animation
-- [x] Dark mode
-- [ ] Code highlight
+- [x] JS Dark mode
+- [x] Code highlight
+- [ ] 404 Page
 - [ ] Navbar
 - [ ] Footer
+
+> blockquote test
+>
+> blockquote test
 
