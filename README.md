@@ -6,19 +6,29 @@
 
 ## What is this?
 
-this is a **blog system** wrote by brooke_zb, use Vue.js (version 3), vue-router and etc.
+this is a **blog system** wrote by ***brooke_zb***, use *Vue.js (version 3)*, *vue-router* and *etc*.
 
 示例: [ZB's空间站](https://blog.brooke-zb.top)
 
 ## Features
 
-looks very cool! a perfect experience when loading and page change.
+~~looks very cool!~~ a perfect experience when loading and page change.
 
 ## Blockquote Test
 
 > blockquote test
 >
 > blockquote test
+>
+> > 套娃测试
+
+## List Test
+
+- first
+- second
+
+1. first
+2. second
 
 ## Table Test
 
@@ -66,6 +76,9 @@ this is `span code`, it looks `short`
 - [x] JS Dark mode
 - [x] Code highlight
 - [x] 404 Page
-- [ ] Table style
-- [ ] Navbar
-- [ ] Footer
+- [x] Table style
+- [x] Footer
+- [x] Navbar
+- [x] Side Menu
+- [x] Markdown convert
+- [ ] Main Page
