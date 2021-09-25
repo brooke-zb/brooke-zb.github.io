@@ -4,6 +4,10 @@
 
 ![测试图](https://cdn.jsdelivr.net/gh/brooke-zb/brooke-zb.github.io@master/img/bzblog_1.png "图片标题")
 
+![测试图片](https://pic.brooke-zb.top/as_editor/copy_result.png)
+
+![测试图片3](https://pic.brooke-zb.top/as_editor/menu_rotation.png "标题有啥用")
+
 ## What is this?
 
 this is a **blog system** wrote by ***brooke_zb***, use *Vue.js (version 3)*, *vue-router* and *etc*.
