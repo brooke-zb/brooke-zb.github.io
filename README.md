@@ -2,7 +2,7 @@
 
 ****
 
-![](https://cdn.jsdelivr.net/gh/brooke-zb/brooke-zb.github.io@master/img/bzblog_1.png)
+![测试图](https://cdn.jsdelivr.net/gh/brooke-zb/brooke-zb.github.io@master/img/bzblog_1.png "图片标题")
 
 ## What is this?
 
@@ -81,4 +81,6 @@ this is `span code`, it looks `short`
 - [x] Navbar
 - [x] Side Menu
 - [x] Markdown convert
-- [ ] Main Page
+- [ ] Index Page
+- [ ] About Page
+
