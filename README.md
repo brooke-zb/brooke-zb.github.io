@@ -8,6 +8,8 @@
 
 ![测试图片3](https://pic.brooke-zb.top/as_editor/menu_rotation.png "标题有啥用")
 
+![小图片](https://www.brooke-zb.top/images/site/vsc.png "小图片测试")
+
 ## What is this?
 
 this is a **blog system** wrote by ***brooke_zb***, use *Vue.js (version 3)*, *vue-router* and *etc*.
