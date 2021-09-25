@@ -4,9 +4,9 @@
 
 ![测试图](https://cdn.jsdelivr.net/gh/brooke-zb/brooke-zb.github.io@master/img/bzblog_1.png "图片标题")
 
-![测试图片](https://pic.brooke-zb.top/as_editor/copy_result.png)
+![测试图片](https://cdn.jsdelivr.net/gh/brooke-zb/brooke-zb.github.io@master/img/copy_result.png)
 
-![测试图片3](https://pic.brooke-zb.top/as_editor/menu_rotation.png "标题有啥用")
+![测试图片3](https://cdn.jsdelivr.net/gh/brooke-zb/brooke-zb.github.io@master/img/menu_rotation.png "标题有啥用")
 
 ![小图片](https://www.brooke-zb.top/images/site/vsc.png "小图片测试")
 
