@@ -89,4 +89,6 @@ this is `span code`, it looks `short`
 - [x] Markdown convert
 - [ ] Index Page
 - [ ] About Page
+- [ ] Gallery Box
+  - [ ] add scroll/double finger to zoom picture
 
