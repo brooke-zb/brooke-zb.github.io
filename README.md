@@ -79,32 +79,18 @@ this is `span code`, it looks `short`
 ## WIP
 
 - [x] Loading animation
-
 - [x] JS Dark mode
-
 - [x] Code highlight
-
 - [x] 404 Page
-
 - [x] Table style
-
 - [x] Footer
-
 - [x] Navbar
-
 - [x] Side Menu
-
 - [ ] Index Page
-
 - [ ] About Page
-
-- Markdown convert
-
+- [ ] Markdown convert
   - [x] basic support
-
   - [ ] special support of checkbox
-  
-- Gallery Box
-
+- [ ] Gallery Box
   - [ ] add scroll/double finger to zoom picture
 
