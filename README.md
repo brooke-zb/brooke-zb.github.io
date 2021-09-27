@@ -88,9 +88,11 @@ this is `span code`, it looks `short`
 - [x] Side Menu
 - [ ] Index Page
 - [ ] About Page
-- [ ] Markdown convert
+- [x] Markdown convert
   - [x] basic support
-  - [ ] special support of checkbox
+  - [x] special support of checkbox
 - [ ] Gallery Box
-  - [ ] add scroll/double finger to zoom picture
+  - [x] add scroll/double finger to zoom picture
+  - [x] fixed scale bug on mobile
+  - [ ] change scale mode on mobile to dbclick
 
