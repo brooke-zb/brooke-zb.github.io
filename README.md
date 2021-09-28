@@ -6,9 +6,11 @@
 
 ![测试图片](https://cdn.jsdelivr.net/gh/brooke-zb/brooke-zb.github.io@master/img/copy_result.png)
 
-![测试图片3](https://cdn.jsdelivr.net/gh/brooke-zb/brooke-zb.github.io@master/img/menu_rotation.png "标题有啥用")
+![测试图片3](https://cdn.jsdelivr.net/gh/brooke-zb/brooke-zb.github.io@master/img/menu_rotation.png "标题测试")
 
 ![小图片](https://www.brooke-zb.top/images/site/vsc.png "小图片测试")
+
+![超大图片测试](https://sdfsdf.dev/3000x1000.png "超大图片测试"))
 
 ## What is this?
 
@@ -94,5 +96,5 @@ this is `span code`, it looks `short`
 - [ ] Gallery Box
   - [x] add scroll/double finger to zoom picture
   - [x] fixed scale bug on mobile
-  - [ ] change scale mode on mobile to dbclick
+  - [x] change scale mode on mobile to dbclick
 
