@@ -97,4 +97,5 @@ this is `span code`, it looks `short`
   - [x] add scroll/double finger to zoom picture
   - [x] fixed scale bug on mobile
   - [x] change scale mode on mobile to dbclick
+  - [ ] add pinch-to-zoom support
 
